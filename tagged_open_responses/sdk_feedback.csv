@@ -1,0 +1,84 @@
+comment,Other,General Positive,Bugs,Debugging tools,Improve C,Features,Better Tutorials / Docs
+Thank you for your hard work,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+If the simulator could be set to auto-reload when the file is updated that would be amazing.,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Have many more example projects for C as possible please. They're very useful for learning.,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+just keep being cool,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Love your work on this so far! It's so much fun and a joy to code for. Everything seems ""as it should be"". :D ",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Allow network access!,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+The C API is _amazing_. it's so well done.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"It's a fantastic start, keep adding the things devs are asking for in the forum!",0.0,1.0,0.0,0.0,0.0,1.0,0.0
+"I would love to see some more example code in the docs, especially for sections that import CoreLibs components, since there isn't really a good reminder anywhere for exactly what the syntax for that is.",0.0,0.0,0.0,0.0,0.0,0.0,1.0
+I’m a noob so some examples of code in action would be nice. I know there are the sample games but I mean examples directly next to the item on the website. Kinda like how w3schools does it. ,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Great job!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+developing for the playdate is so nice!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Great job!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"I've been considering developing a fairly large project for the playdate and while I love the console, and I believe creativity is born of limitations, I'm not fully convinced of the economic viability of selling games for the playdate. I would love if there was some direct resource I could talk to to discuss this.",1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Well done!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Very impressed with the quality of the SDK across the board. Well done!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Visual Studio Code is incompatible with the C API on windows. Please either update the documents to have information on how to work with the sdk on windows, or upfront suggest Visual Studio Community as it is much easier to set up.",0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Fantastic work, setting up a new project couldn't be easier",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+It's been great using it. love it.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Please don't stop making the SDK better! It is already so fun to use, and every feature added, no matter how small, is always so helpful.",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+good work. It was fun and easy to develop a weekend game for this tiny little yellow platform.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+More online tutorials,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+More C documentation pls -- I want to know EXACTLY what library functions do,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Nothing really. Amazing documentation and presentation.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Keep up the good work.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Excellent work. Documentation is great, too. ",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+They’ve done an amazing job.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+More documentation and examples!,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Make the docs easier to search,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Example Code snippets in the documentation. Sometimes it's hard to understand how things work without any context.,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+better C API,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Thanks for the SDK!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+The SDK is difficult to set up on Linux.,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Only used a few times after release: a bit hard to get working and the wiki wasn't always clear on how to compile and run on emulation,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"It's good, but we need more examples in the docs",0.0,0.0,0.0,0.0,0.0,0.0,1.0
+some structures or types in C documentation are not complete or have to be backtracked to know what they contain,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+YOU DID AN AMAZING JOB.,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Keep it on,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+great job so far!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+You’re awesome,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Improve C documentation,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+"Faster bug fixing. I had to fix issues that should be fixed in SDK in my own code, because I was blocked with a release.",0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Need more examples,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Keep up the great work,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"It's a little rough getting started with the ARM chain, I struggled at least... Any additional guides you could add here could help a lot of people!
+
+I also was not expecting the simulator to want a different binary to the device, ""I'll compile using windows subsystem for Linux and then load it into the Windows simulator""... Nope! You do already discuss this, but make this distinction that it is _not_ an emulator really clear.",1.0,0.0,0.0,0.0,0.0,0.0,1.0
+"The build scripts that come with the SDK are all over the place. There's both make and cmake, they do slightly different things, they drop built files outside of the build dir, building for the simulator and device requires clearing the build folder but none of the other files, and the AUR package doesn't put stuff in quite the right place. ",0.0,0.0,0.0,0.0,1.0,0.0,0.0
+You're doing a great job :),0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"It would feels great to have more visualy appealing example for the documentation, it seems sometimes hard to understand coding concepts with the documentation",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+It would be nice to have some documentation that has an example of a completed project.,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+"So far, I'm LOVING the SDK. Just a really nice job.",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+the object model seems to have memory leaks,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Good work!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+More high-level examples of architecture etc,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Great work!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+it s fine,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"NobleRobot's NobleEngine Scene object is nice for keeping track of objects and assuring that multiple game loops aren't running at the same time.
+
+these are ideas from Unity and Unreal Engine like scenes would be nice",1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Keep up the great work!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Such a great v1 - thank you for all of your hard work!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+great job!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Y'all are doing great. Keep it up. 👍🏻,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"You are awesome. The Lua SDK is amazingly complete, more than Löve2D",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"its amazing, thanks",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"I need to try more for now I'm more into pulp for a good feed back but a lot of project seem enjoy this sdk !
+
+Hard to tell without the playdate owned if your game work. Need a perfect emulation.
+
+Remark some pulp music voices lost power within the playdate sdk emulator :/",0.0,1.0,1.0,0.0,0.0,0.0,0.0
+"Simulator should have sprite counts, etc. ",0.0,0.0,0.0,1.0,0.0,0.0,0.0
+You guys are awesome!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+You guys are doing a great job. I am truly impressed!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Thanks for making it, and making it cross-platform. ",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+You are awesome!,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Great, but some things / functions are not really clear",0.0,1.0,0.0,0.0,0.0,0.0,0.0
+💛,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"I think documentation could be a loooot better tbh, both in presentation/format and in writing ",0.0,0.0,0.0,0.0,0.0,0.0,1.0
+"Nothing, SDK is pretty sweet.
+
+Oh, I would love to be able to set a zIndex on background drawing callback",0.0,1.0,0.0,0.0,0.0,1.0,0.0
+I love example code. Especially demos where I can change parameters to see how it all works together.,0.0,0.0,0.0,0.0,0.0,0.0,0.0

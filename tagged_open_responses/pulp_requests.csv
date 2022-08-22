@@ -1,0 +1,75 @@
+comment,Other,Performance,General features,QoL,Continued development,Bugs,Tutorials,Programming features,Shareable Pulp Web Player
+Better performance. Pulp Mill shows a path forward this this approach. ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+More insight,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+More options,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Easier deployment of games for sideloading.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Active development,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"A larger map system like in Bitsy to make exit management easier, and the ability to see adjacent rooms in the player centered camera for larger than screen worlds. ",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"something a little more explicitly ECS, like being able to define a script as a separate entity and assign it to a game object.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conversion to the SDK for growing projects,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Envelope Control for the Sound/Music editor,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bugfixes and feature updates,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+better tile management/organization and a way to detect held buttons,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+resource image editor for regular dev,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Video tutorials,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Full playdate screen resolution support,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More options for sound and songs (volume adjustments, voice muting...)",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Break from tile format and allow HyperCard-style development,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More traditional programming constructs, like arrays, for loops and such",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+More detailed tiles,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"I Have A List Of Specific Things, As Should Anyone
+But I Don't Want To See It Become Extremely Powerful
+I Love The Simplistic Nature And Ease Of Learning That Comes With Pulp Development
+It's Not As Powerful As The SDK, But That's The Point Yk?
+Looking Through Feature Requests On The Forum And Using Those To Make Development *Easier* Would Be Good
+But Keeping Pulp Beginner-Friendly Should Be The Main Focus Other Than Adding Things To It Until ""Why Even Use The SDK""
+
+But I Mean I Don't Develop That Stuff Idk Also More Customization Like Animations Playing While Say Command Happens Or Restricting Player Movement That'd Be Good I Hear Complaints About That Including From Myself",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Multi-tile importing and management features,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Support for compound operators and/or array,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bug fixes and while I'm in the middle of coding, clicking anywhere outside of the text box will bring up an annoying window. I would like a way to toggle that off.",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+"More pixels, better exits, easier save states, menus",0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Arrays and structs!,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+More QOL features and better sprite system.,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+An integrated section to create pixel art that will export without issue.,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Higher resolution, different player movement types, a way to organize tiles",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+More flexibility for action games ,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More guardrails for bigger games, such as a solution for state management. Pulp makes it very easy to write terrible code.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+HD (16x16) tiles,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ability to save full game state (not just individual variables),0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Better sorting of sprites ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Full resolution, bigger player sprites.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Isometric tiles,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"variable sprite sizes, X/Y coordinate tweening",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tile management,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Access to internet functions and microphone functions,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+I don't think I was the original target audience for Pulp. I'd love for it to support more complexity and functionality. Some basic things are very hard to achieve at the moment.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Onion skin animation,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Full resolution. Non grid sprite movent, text to speech",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+more flexibility,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Smooth character movement,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tile management/organization,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bigger sprites! And/or an easy way to link multiple sprites, i.e. for a 4-sprite player character.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Larger sprite and room graphics.,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+More control of the rooms and more scripting options. ,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+The ability to release web-playable versions to host on itch.io and play in a browser (i.e. a full Bitsy alternative),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Controlling the speed of text and adding sounds as text prints ,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+sprite management and layers,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+More tutorials,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+sprite management,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Pixel transition , subtile in pixel , bigger sprite possible , basic physic engine for platformer ,
+Fx for pulp music editor. Sharable link of pulp game in web.
+Array in pulpscript !!! 
+Args for a table for function  (like emit myfunc [arg1,arg2]).
+But I love this actual version but I thing you could get much more from pulp ;)
+
+Dream of a collaboratif pulp version for working at the sometime on shared project...",1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Better tile management ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+I'm very new so any support stuff for new devs is appreciated ,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"I think Pulp is too limited for my game, so I may not be the best judge. However, I think it's a very bizarre decision to limit the games to half resolution. I would get rid of that arbitrary limitation as soon as possible. I also think that being able to integrate Lua scripting in Pulp would be great.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More of a variety of ""game modes"" - or support for things that aren't tile-based. Maybe adding a couple of templates for different project types would make it more viable for beginners.
+
+I know it's got a lot of cool potential!!! It's just hard to get creative if you're already a novice.",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+More flexible import/export system,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Isometric tiles features, point and click features",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+A more robust sprite system for larger assets. It feels kind of hacky to code them in now.,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

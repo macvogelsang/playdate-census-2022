@@ -1,0 +1,117 @@
+comment,Other,Bugs,Debugging tools,Networking,Bluetooth ,USB Interfacing,Leaderboards,Additional Language Support,Additional Features,QoL Improvements,Better Tutorials/Docs
+A better job of explaining to newer users how to start a basic dev environment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+"A fix to the text memory leak would be nice, it's been posted in the form.",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Better ""frame by frame"" debugging tools",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+game boy emulator,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Full C++ integration. Easier setup for visual studio.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Network access, Integration with Itch.io",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More in-depth docs with explanations + code samples together. Either/or doesn't usually get the job done. Just explaining what to do without knowing the API/SDK calls is useless, and seeing just big blocks of code with vector instructions doesn't help either when you're not familiar with what those functions are actually doing. Great example is the drawing context stuff, it's barely mentioned in the docs, I had to talk to someone in the forums and watch a video from SquidGod to figure out how to use it",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+More performance tools,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Definitely still waiting on leaderboard functionality,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Built in C++ support, and the ability to interface with the USB-C port",0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+On-device debugging! (think PIX); access to the sleep state to build alternative clocks / screensavers at a very low update/refresh; ,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Networking, USB communication, Lua `require`, a context system for audio synthesis",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Examples!,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Efficient 90-degree sprite rotations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+More functionality from the Lua SDK implemented in the C SDK.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Networking,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking capabilities,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+a way to display the crank indicator graphic for portrait mode games,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+A more intuitive optional front-end (i.e cotton) and/or an easier way to implement tilesets/maps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+multiplayer/networking support ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"The main thing I'd love to see is the ability to share games with people who don't have a playdate. That could mean a web player for playdate games, or the ability to create an executable for other platforms.",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+More audio features like tempo increase without affecting pitch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+basic networking/ local multiplayer,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"formatString for a preallocated buffer, keyboard api in C",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bluetooth multiplayer, and peripheral support",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+UI framework,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bluethooth, multiplayer",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Networking, but if that's too out of reach nothing",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Local multiplayer functionality with Bluetooth,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Open access to WiFi.,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Physics engine, better animation tools",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"A different language supported other than Lua, but thats not realistic.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+A simulator that actually runs at the same speed as the playdate,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking would be awesome.,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+An easier way to upload pixel art.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Better code examples and straightforward documentation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+audio sample generation in lua,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Better vs or vs code support ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Bug fixes,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2D camera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Animated sprites,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Some way to run ""pdc"" and reload my project without leaving the simulator",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Beeing able to stop the game in the simulator and beeing able to advance the game frame by frame, like in Unity",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+More example projects with more in depth examples,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Internet,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+raylib like api,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Easy C++ support,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Networking API,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking for online gameplay,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Web requests,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Flip horizontally/vertically in the tilemap API,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+app or game framework/boilerplate and ready-to-use text boxes drawing utilities and such...,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Official support for Rust,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Better Linux support.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Wifi functionality, local multiplayer, and bluetooth.",0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Access to Internet + Visual effects tools,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Some system to mimic actual device speed,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mouse input in Simulator,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Network access, usb / bluetooth access",0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Frameworks for creating levels, menus and screens easier. Like how to switch between screens and so",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+some basic networking APIs,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Package manager
+Scene / Layer manager
+Diagnostic widgets / imgui-like runtime feedback
+Networking
+Cloud storage / centralized ""safe files""",1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"For my purposes, it is sufficient. Possibly thread support in C, though that might already be a thing--haven't done a comprehensive deep-dive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+WiFi & LED control,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Multiplayer support,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Networking, a wiziwig editor like pulp but better",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Bluetooth local multiplayer,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"The C API is fine, but if you could move more of the more advanced functionality from Lua down into the C layer then everyone would benefit. An expanded sprite system would be good too, one where it is possible to combine sprites with other screen draws...? Or does that really break the whole efficiency of the system... Oh and please add better support for linking snprintf in the tooling. ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Networking support,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3D rendering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Networking,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Networking would be cool, but even cooler would be a built-in leaderboards / achievements from Panic.",1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Not directly related to the SDK, but I would like to see the playdate OS source code available (or at least parts), so that people could make custom firmware with extra features, also just because I'm curious.",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More helper functions for common tasks. Simple ""get text on the screen"" ""get a sprite on the screen"" etc.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+"Network access, player nickname, local network multiplayer",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maybe local networking. But I also kinda like that it isn't there.,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+More ready to use fonts and images,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Not sure yet. I haven’t delved very far, but it seems complete enough. Maybe just some more code examples or sample games.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Automatic updates without having to sideload again. And multiplayer features. ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+i would like use a db ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Wifi and Bluetooth for Online and Local Multiplayer. 
+
+I want to @cabel on Twitter.com with a picture of a Game Boy Link Cable.",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking / HTTP,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Physics simulation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+more examples and help for sdk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+"Sharing -- I actually like the fact that it doesn't have a full API to access the wifi, but I'd love to enable sharing. I'm thinking ""local sharing"" by letting developers send files to nearby Playdates (or computers? idk) and perhaps ""remote sharing"" where folks can log in on the website, grab a link to share, and then have others download/install files. 
+
+This would let us make more creativity-focused games where folks make things on the Playdate, but then can share it with their friends.",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scene management,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"New tools that help struct the code kinda like pulp or cotton and plugging for coding on vscode event a virtualizer sdk within vscode . Multiplayer online would be so exciting ! 
+Tu trial with very basical game",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+Internet access,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hashed user ID or device serial number management for license key management,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"I would love to see more tutorials from Panic on how to get started, but really thats on me.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+"I would love a beginner's guide to integrating C to Lua. Something that explains step by step with a very simple example how to build an hybrid game and test it in the simulator. I also think that the simulator needs to reflect the true performance of the system. I have the Playdate now but I was forced to develop in the dark for months. And considering how slowly you get the Playdates in people's hands (not a critic), I think it's crucial that people can test their code with relative confidence that it will run on platform. Also, I would love if the SDK could generate a little executable that both PC and Mac Users could run without having to download anything.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+peer to peer wi-fi for local multiplayer,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Video encoding which doesn't require access to a Mac, realtime sprite rotation (if possible!)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Internet connectivity. ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"I couldn't say; I'm too novice in C and Lua. I'm used to node graph programming and have been transitioning to C# and C++ professionally, so I'm just hoping to gain new skills using the tools available, which I like so far.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Networking support,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Still to early to say,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Optimized linear algebra libraries.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Multiplayer, Internet, Bluetooth",0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Multiplayer,",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+http requests,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIDI input for the music,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Wifi and Bluetooth API,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Networking, multiplayer, better debugging ",0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Types,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
