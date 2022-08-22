@@ -1,0 +1,72 @@
+short_col_name,original_question
+timestamp,Timestamp
+age,Age & Stage?
+gender,Gender Identity?
+continent,Where do you live?
+other_consoles,What other mainstream consoles do you own?
+other_indie_consoles,What indie consoles do you own?
+desktop_os,Main Desktop OS
+mobile_os,Main Mobile OS
+playdate_content,Where do you absorb Playdate content / news?
+twitter_engagement,In the last 30 days how often did you engage with these communities? [Twitter]
+discord_engagement,In the last 30 days how often did you engage with these communities? [Discord]
+reddit_engagement,In the last 30 days how often did you engage with these communities? [Reddit]
+itch_engagement,In the last 30 days how often did you engage with these communities? [Itch.io]
+forum_engagement,In the last 30 days how often did you engage with these communities? [Offical Playdate Forum]
+youtube_engagement,In the last 30 days how often did you engage with these communities? [Youtube]
+wiki_engagement,In the last 30 days how often did you engage with these communities? [Playdate wiki]
+twitch_engagement,In the last 30 days how often did you engage with these communities? [Twitch]
+aware_of_wiki,Did you know there was a Playdate Wiki?
+read_wiki,Have you ever read the wiki?
+updated_wiki,Have you ever updated the wiki?
+wiki_feedback,What feedback do you have for the Playdate Community Wiki?
+aspect_of_playdate,What aspect of the Playdate is the most attractive to you?
+yellow_color,How do you feel about the Playdate only coming in yellow?
+know_other_owners,Do you have friends or family who also own/ordered a Playdate? 
+have_ordered,Have you ordered a Playdate
+order_group,I am in Playdate order group?
+have_ordered_cover,Have / will you order the Playdate Cover?
+will_order_dock,Will you order the Playdate Stereo Dock?
+have_playdate,Do you have your Playdate already?
+build_quality,Are you satisfied with the build quality of the Playdate?
+arrival_issues,Did your Playdate arrive with any issues?
+arrival_issues_describe,"If your Playdate arrived with issues, please describe them."
+developed_issues,Has your Playdate developed any issues?
+developed_issues_describe,"If your Playdate developed any issues, please describe them."
+satistfied_with_support,"If you needed to contact Panic support, have you been satisfied with the experience? "
+support_feedback,Feedback for Panic support?
+satisfied_with_season,How do you feel about the season game delivery system?
+season_feedback,Feedback on the season game delivery system?
+spoiler_free,Are you trying to stay spoiler free?
+satisfied_with_games,How do you feel about the spread of games in Season One?
+most_exciting_game,Most exciting Season One game?
+season_game_feedback,Feedback on Season One?
+purchase_season_2,"If Panic announces a season 2, do you plan on purchasing it?"
+pay_for_12_games,How much would you expect to pay for a season of 12 games?
+pay_for_24_games,How much would you expect to pay for a season of 24 games?
+have_purchased_game,Have you purchased a game outside of Season One?
+quick_hit_price,What do you consider a reasonable price for a Playdate game? [Quick hit or gimmick game/app]
+short_price,What do you consider a reasonable price for a Playdate game? [A short / lower quality game]
+standard_price,What do you consider a reasonable price for a Playdate game? [A standard length / quality game]
+long_price,What do you consider a reasonable price for a Playdate game? [A longer / high quality game]
+highest_price,What do you consider a reasonable price for a Playdate game? [A game of the highest quality]
+known_developer,Would you pay extra for a game from known developer?
+game_tags,Which of these tags do you most closely associate with the sort of content you would like to see/play in Playdate games?
+session_10min,How often do you expect the following playtime sessions on you Playdate? [1 - 10 mins]
+session_30min,How often do you expect the following playtime sessions on you Playdate? [10 - 30 mins]
+session_60min,How often do you expect the following playtime sessions on you Playdate? [30 - 60 mins]
+session_hour_plus,How often do you expect the following playtime sessions on you Playdate? [Hour+]
+most_excited_game,What game outside of Season One are you most looking forward to?
+dev_tools,Do you / have you developed software for any of the following systems / tools?
+dev_playdate,Do you develop software for the Playdate?
+use_sdk,Have you used the C or Lua SDK ?
+dev_language,Do you code in C or Lua?
+sdk_features,What would you like to see come to the SDK?
+sdk_feedback,What feedback do you have for the SDK team?
+use_pulp,Have you used Pulp?
+pulp_features,What would you like to see come to Pulp?
+pulp_feedback,What feedback do you have for the Pulp team?
+dev_playdate_tools,Have you used any other tools or frameworks
+overall_satisfaction,How happy are you with the Playdate as a product?
+next_12_months,What do you want to see from the Playdate in the next 12 months?
+panic_feedback,What feedback do you have for Panic Inc?
