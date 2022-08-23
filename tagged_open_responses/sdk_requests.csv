@@ -1,4 +1,4 @@
-comment,Other,Bugs,Debugging tools,Networking,Bluetooth ,USB Interfacing,Leaderboards,Additional Language Support,Additional Features,QoL Improvements,Better Tutorials/Docs
+comment,Other,Bugs,Debugging tools,Networking,Bluetooth ,USB Interfacing,Leaderboards,Additional Language Support,Additional Features,QoL Improvements,Better Tutorials / Docs
 A better job of explaining to newer users how to start a basic dev environment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 "A fix to the text memory leak would be nice, it's been posted in the form.",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Better ""frame by frame"" debugging tools",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -23,7 +23,7 @@ multiplayer/networking support ,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 More audio features like tempo increase without affecting pitch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 basic networking/ local multiplayer,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "formatString for a preallocated buffer, keyboard api in C",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-"Bluetooth multiplayer, and peripheral support",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bluetooth multiplayer, and peripheral support",0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 UI framework,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 "Bluethooth, multiplayer",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Networking, but if that's too out of reach nothing",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -45,7 +45,7 @@ Animated sprites,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 "Beeing able to stop the game in the simulator and beeing able to advance the game frame by frame, like in Unity",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 More example projects with more in depth examples,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 Internet,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-raylib like api,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+raylib like api,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 Easy C++ support,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 Networking API,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Networking for online gameplay,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

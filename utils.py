@@ -242,8 +242,10 @@ def horizontal_bar_base(dtp, title, col):
     fig.update_yaxes(ticksuffix = "  ")
     return fig, dtp
 
-def vertical_bar_base(dtp, title, col):
+def vertical_bar_base(dtp, title, col, col2=None):
     fig = px.bar(dtp, y='num', x=col, text='label', barmode='group')
+    if col2:
+        fig = px.bar(dtp, y='num', x=col, color=col2, text='label', barmode='group')
     fig.update_traces(
         texttemplate='%{text}', 
         textposition='auto', 
@@ -264,14 +266,16 @@ def vertical_bar_base(dtp, title, col):
     return fig, dtp
 
 def horizontal_bar(data, title, col='fixed', other_threshold=3, total_responses=None, vertical=False,
-    top_n=50, bot_n=None):
+    top_n=50, bot_n=None, col2=None):
     plot_data = data.copy()
+    # col2 = 'have_playdate'
+    groupby = [col] if not col2 else [col2, col]
     grouped = plot_data.groupby(col).size().reset_index()
     grouped = grouped.rename(columns={grouped.columns[-1]:'num'})
     group_in_other = grouped[grouped.num < other_threshold][col]
     plot_data['fixed'] = plot_data[col].apply(lambda x: 'other' if x in group_in_other.values else x)
     # plot_data['count'] = plot_data.timestamp.apply(lambda x: 'other' if x < 2 else x)
-    plot_data = plot_data.groupby([ col]).size().reset_index()
+    plot_data = plot_data.groupby(groupby).size().reset_index()
     plot_data = plot_data.rename(columns={plot_data.columns[-1]:'num'})
     if total_responses: 
         plot_data['percentage'] = plot_data.num.apply(lambda x: 100 * (x / total_responses))
@@ -286,7 +290,7 @@ def horizontal_bar(data, title, col='fixed', other_threshold=3, total_responses=
         plot_data = plot_data.tail(bot_n)
 
     if vertical:
-        return vertical_bar_base(plot_data, title, col)
+        return vertical_bar_base(plot_data, title, col, col2)
     else:
         return horizontal_bar_base(plot_data, title, col)
         
@@ -385,19 +389,25 @@ def pie(data, col, title=None, trace_order=None, horizontal=False, counted=False
         fig.update_layout(width=500, legend=dict(orientation="h", xanchor="center",x=0.5))
     return fig
 
-def histogram(data, col, title):
+def histogram(data, col, title, show_mean=True):
     pd = data.copy()
     fig = px.histogram(pd, x=col, nbins=20)
     fig.update_layout(width=500, bargroupgap=0, bargap=0, barmode='group', legend_title='Have purchased a game?', xaxis_title=title, 
+        yaxis_title='responses',
         xaxis={
             'nticks':20,
             'tickmode':'auto'
         },
-        )
+    )
     fig.update_traces(
         xbins_size=5,
         marker_line_color='black',
-                    marker_line_width=1.5, opacity=1, autobinx=False)
+        marker_line_width=1.5, opacity=1, autobinx=False)
+    
+    if show_mean:
+        mean = data[col].mean()
+        fig.add_vline(x=mean, line_width=3, line_dash="dash", annotation_text=f"avg: {mean:1.2f}", annotation_position="top", line_color="black")
+
 
     return fig
 
@@ -470,7 +480,7 @@ def horizontal_marimekko(data, cols, top_labels, side_labels):
             # labeling the first percentage of each bar (x_axis)
             annotations.append(dict(xref='x', yref='y',
                                 x=xd[0] / 2, y=yd,
-                                text=str(xd[0]) + '%',
+                                text=top_labels[0],#str(xd[0]) + '%',
                                 font=dict(size=14,
                                         color='rgb(248, 248, 255)'),
                                 showarrow=False))
@@ -480,13 +490,13 @@ def horizontal_marimekko(data, cols, top_labels, side_labels):
                 if xd[i] > perc_threshold:
                     annotations.append(dict(xref='x', yref='y',
                                         x=space + (xd[i]/2), y=yd,
-                                        text=str(xd[i]) + '%',
+                                        text=top_labels[i],#str(xd[i]) + '%',
                                         font=dict(size=14,
                                                 color='rgb(248, 248, 255)'),
                                         showarrow=False))
                 space += xd[i]
 
-    fig.update_layout(annotations=annotations, width=1500)
+    fig.update_layout(annotations=annotations, width=1500, font_size=16)
     return fig
 
 
